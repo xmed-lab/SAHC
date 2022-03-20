@@ -13,7 +13,7 @@ Framework visualization
 
 **Datasets and our trained model**
 
-Cholec80, M2CAI16 and our trained model [GoogleDrive](https://1drv.ms/f/s!Agn5nXKXMkK5aigB0g238YxuTxs)
+Cholec80, M2CAI16 and our trained model [GoogleDrive](https://drive.google.com/drive/folders/1grGXjTTUnN717WpN4k7T-bAq3GKy2bLv?usp=sharing)
  
 
 
