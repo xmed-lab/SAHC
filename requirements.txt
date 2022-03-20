@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+numpy==1.20.3
+scikit_learn==1.0.2
+seaborn==0.11.2
+thop==0.0.31.post2005241907
+torch==1.9.0
+torchvision==0.10.0
+tqdm==4.61.2
