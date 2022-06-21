@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a PyTorch implementation of [Exploring Segment-level Semantics for Online Phase Recognition from Surgical Videos].
+This is a PyTorch implementation of IEEE TMI [Exploring Segment-level Semantics for Online Phase Recognition from Surgical Videos](https://arxiv.org/pdf/2111.11044.pdf)
 
 In this papper, we design a temporal hierarchical network to generate hierarchical high-level segments to refine low-level frame predictions, based on [NETE](https://github.com/ChinaYi/NETE)
 
