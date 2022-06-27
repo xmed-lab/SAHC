@@ -9,6 +9,7 @@ In this papper, we design a temporal hierarchical network to generate hierarchic
 Framework visualization
 ![framework visualization](resources/fig_architecture.svg)
 
+
 ## Preparation
 
 **Datasets and our trained model**
@@ -65,3 +66,14 @@ Mean recall: 92.88 +-  4.83
 
 
 
+## Citation
+If this code is useful for your research, please citing:
+  ```
+  @article{ding2022exploring,
+  title={Exploring Segment-level Semantics for Online Phase Recognition from Surgical Videos},
+  author={Ding, Xinpeng and Li, Xiaomeng},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2022},
+  publisher={IEEE}
+}
+  ``` 
